@@ -19,7 +19,7 @@ The application up and running on `localhost:3000`.
 
 # Further Thoughts
 There still are multitudes of areas where the improvement is due.
-The list of future enhancements (skipped due to time constraints) includes but is not limited to:
+The list of future enhancements includes but is not limited to:
 - Write tests on Ruby on Rails modules, using RSpec
 - Make a more encompassing parser for different types of IRS filing doc structure (some files have totally different structures).  
     i.e. http://s3.amazonaws.com/irs-form-990/201522139349100402_public.xml
